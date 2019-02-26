@@ -1,0 +1,115 @@
+<svg id="Layer_1" data-name="Layer 1" 
+    xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+    <title>saerch-apartments-01</title>
+    <g id="Artboard">
+        <g id="confirm">
+            <ellipse id="Oval" cx="124.9755" cy="126.0683" rx="72.1602" ry="72.6477" style="fill:#eff3f7"/>
+            <g id="Group" style="opacity:0.30000001192092896">
+                <rect id="Rectangle-path" x="221.4946" y="89.6609" width="19.4794" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+                <rect x="204.4492" y="89.6609" width="9.7433" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+            </g>
+            <g id="Group-2" style="opacity:0.30000001192092896">
+                <rect x="34.2434" y="143.2685" width="19.4794" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+                <rect x="17.198" y="143.2685" width="9.7433" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+            </g>
+            <g id="Group-3" style="opacity:0.46000000834465027">
+                <g style="opacity:0.5">
+                    <rect x="195.0343" y="121.8155" width="34.2346" height="4.1792" style="fill:#72d6c8"/>
+                </g>
+            </g>
+            <path d="M51.7905,59.0276a9.2638,9.2638,0,1,1,6.5505-2.7133A9.2638,9.2638,0,0,1,51.7905,59.0276Zm0-14.252a4.9882,4.9882,0,1,0,4.9882,4.9882,4.9882,4.9882,0,0,0-4.9882-4.9882Z" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <path d="M166.9254,205.2733A11.2135,11.2135,0,1,1,178.12,194.0412q.0006.36-.0219.72A11.23,11.23,0,0,1,166.9254,205.2733ZM166.89,187.092a6.9829,6.9829,0,1,0,1.34.1276,7.0938,7.0938,0,0,0-1.34-.1205Z" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <circle id="Oval-2" cx="150.3291" cy="58.54" r="4.3881" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <path class="line" stroke="#72D6C8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".5" d="M124.9755,208.955a82.8867,82.8867,0,1,1,82.8867-82.8867h0a82.8865,82.8865,0,0,1-82.8864,82.8867Zm0-165.0557a82.1691,82.1691,0,1,0,82.169,82.1692v0A82.169,82.169,0,0,0,124.9755,43.8993Z" style="fill:#ffffff"/>
+            <g id="home">
+                <polygon id="Shape-2" points="159.811 112.022 124.519 77.861 89.304 112.022 88.223 110.855 124.519 75.682 160.892 110.855 159.811 112.022" style="fill:#72d6c8"/>
+                <polygon points="91.466 109.688 90.385 108.52 124.596 75.604 158.576 108.52 157.494 109.688 124.596 77.783 91.466 109.688" style="fill:#72d6c8"/>
+                <polygon points="152.089 143.849 129.461 143.849 129.461 123.617 119.654 123.617 119.654 143.849 98.185 143.849 98.185 111.866 99.729 111.866 99.729 142.293 118.109 142.293 118.109 122.06 131.006 122.06 131.006 142.293 150.544 142.293 150.544 111.866 152.089 111.866 152.089 143.849" style="fill:#72d6c8"/>
+                <path id="Path-3" d="M100.1154,127.0407v15.0964h17.9164V121.9826h13.36v20.0766h18.766V111.4h8.6493L124.596,78.1719,103.5905,98.6376c6.5642,2.8014,10.1167,7.237,10.7345,13.2288,0,.0779.7722,12.2172-11.43,15.0964A13.6528,13.6528,0,0,1,100.1154,127.0407Z" style="fill:#fff"/>
+                <rect id="Rectangle" x="98.7253" y="150.1522" width="52.2821" height="3.7352" style="fill:#72d6c8;fill-opacity:0.5">
+                 <animate  id="rec1"
+                    attributeName="width"
+                        attributeType="XML"
+                        from="0"
+                        to="52"
+                        dur="2s"
+                        begin="0s; rec1.end+7s"
+                    />
+                        <animate  id="rec1"
+                        attributeName="opacity"
+                        attributeType="XML"
+                        from="0"
+                        to=".55"
+                        dur="2s"
+                        begin="0s; rec1.end+7s"
+                    />
+                    </rect>
+                <rect id="Rectangle-2" x="98.7253" y="157.5447" width="30.5815" height="3.7352" style="fill:#72d6c8;fill-opacity:0.5">
+               
+                <animate  id="rec2"
+                    attributeName="width"
+                        attributeType="XML"
+                        from="0"
+                        to="30"
+                        dur="2s"
+                        begin="0s; rec2.end+7s"
+                    />
+                        <animate  id="rec2"
+                        attributeName="opacity"
+                        attributeType="XML"
+                        from="0"
+                        to=".55"
+                        dur="2s"
+                        begin="0s; rec2.end+7s"
+                    />
+                    </rect>
+                     <rect id="Rectangle-3" x="98.7253" y="165.0151" width="36.8369" height="3.7352" style="fill:#72d6c8;fill-opacity:0.5">
+                
+                 <animate  id="rec3"
+                    attributeName="width"
+                        attributeType="XML"
+                        from="0"
+                        to="37"
+                        dur="2s"
+                        begin="0s; rec3.end+7s"
+                    />
+                        <animate  id="rec3"
+                        attributeName="opacity"
+                        attributeType="XML"
+                        from="0"
+                        to=".55"
+                        dur="2s"
+                        begin="0s; rec3.end+7s"
+                    />
+                    </rect>
+                    <rect id="Rectangle-4" x="98.7253" y="172.4077" width="52.2821" height="3.7352" style="fill:#72d6c8;fill-opacity:0.5">
+                      <animate  id="rec4"
+                    attributeName="width"
+                        attributeType="XML"
+                        from="0"
+                        to="52"
+                        dur="2s"
+                        begin="0s; rec4.end+7s"
+                    />
+                        <animate  id="rec4"
+                        attributeName="opacity"
+                        attributeType="XML"
+                        from="0"
+                        to=".55"
+                        dur="2s"
+                        begin="0s; rec4.end+7s"
+                    />
+                    </rect>
+            </g>
+            <g id="search_" data-name="search ">
+                <rect x="70.2247" y="124.8066" width="19.3086" height="1.5595" transform="matrix(0.8412, -0.5408, 0.5408, 0.8412, -55.2268, 63.1442)" style="fill:#72d6c8"/>
+            </g>
+            <circle id="Oval-4" cx="101.2816" cy="110.6006" r="16.4805" style="fill:#f0f8fa"/>
+            <g id="confirm-2" data-name="confirm">
+                <path d="M90.9125,106.8385a.7329.7329,0,0,1,1.0357.04q.0168.018.0322.0372l8.3905,9.9222a.7474.7474,0,0,1-.052,1.0557l-.0243.0211a.7329.7329,0,0,1-1.0357-.04q-.0168-.018-.0322-.0372l-8.39-9.9222A.8226.8226,0,0,1,90.9125,106.8385Z" style="fill:#ff3365"/>
+                <path id="Rectangle-path-2" d="M99.4555,117.7606a.7478.7478,0,0,1-.0194-1.0574l.0194-.0194,15.6369-15.7679a.7331.7331,0,0,1,1.0363-.0316c.0108.01.0214.0207.0316.0316a.7479.7479,0,0,1,.0194,1.0574l-.0194.0194L100.6,117.7606A.8245.8245,0,0,1,99.4555,117.7606Z" style="fill:#ff3365"/>
+                <path id="Shape-3" d="M116.923,107.8384a.8624.8624,0,0,0-.61.2307.8778.8778,0,0,0-.2288.6154,8.4342,8.4342,0,0,1,.0763,1.3845,15.7921,15.7921,0,0,1-11.7467,15.3063A15.5442,15.5442,0,0,1,86.87,117.6068a15.9077,15.9077,0,0,1,3.2037-19.1522,15.6392,15.6392,0,0,1,19.1455-1.5384.8955.8955,0,0,0,.7628.0769.8094.8094,0,0,0,.3814-.6922.95.95,0,0,0-.3814-.7692A17.1279,17.1279,0,0,0,88.93,97.3777a17.4176,17.4176,0,0,0-3.4325,20.9982,17.0755,17.0755,0,0,0,19.2982,8.5378,17.4089,17.4089,0,0,0,12.9671-16.8447,10.38,10.38,0,0,0-.0763-1.5384A.7549.7549,0,0,0,116.923,107.8384Z" style="fill:#72d6c8"/>
+            </g>
+        </g>
+    </g>
+</svg>

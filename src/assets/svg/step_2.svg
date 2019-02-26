@@ -1,0 +1,52 @@
+<svg id="Layer_1" data-name="Layer 1" 
+    xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+    <title>payment-card-01</title>
+    <g id="Artboard">
+        <g id="confirm">
+            <ellipse id="Oval" cx="124.9755" cy="126.0683" rx="72.1602" ry="72.6477" style="fill:#eff3f7"/>
+            <g id="Group" style="opacity:0.30000001192092896">
+                <rect id="Rectangle-path" x="221.4946" y="89.6609" width="19.4794" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+                <rect x="204.4492" y="89.6609" width="9.7433" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+            </g>
+            <g id="Group-2" style="opacity:0.30000001192092896">
+                <rect x="34.2434" y="143.2685" width="19.4794" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+                <rect x="17.198" y="143.2685" width="9.7433" height="4.1792" style="fill:#ff3365;opacity:0.5;isolation:isolate"/>
+            </g>
+            <g id="Group-3" style="opacity:0.46000000834465027">
+                <g style="opacity:0.5">
+                    <rect x="195.0343" y="121.8155" width="34.2346" height="4.1792" style="fill:#72d6c8"/>
+                </g>
+            </g>
+            <path d="M51.7905,59.0276a9.2638,9.2638,0,1,1,6.5505-2.7133A9.2638,9.2638,0,0,1,51.7905,59.0276Zm0-14.252a4.9882,4.9882,0,1,0,4.9882,4.9882,4.9882,4.9882,0,0,0-4.9882-4.9882Z" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <path d="M166.9254,205.2733A11.2135,11.2135,0,1,1,178.12,194.0412q.0006.36-.0219.72A11.23,11.23,0,0,1,166.9254,205.2733ZM166.89,187.092a6.9829,6.9829,0,1,0,1.34.1276,7.0938,7.0938,0,0,0-1.34-.1205Z" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <circle id="Oval-2" cx="150.3291" cy="58.54" r="4.3881" style="fill:#ff3365;opacity:0.30000001192092896;isolation:isolate"/>
+            <path class="line" opacity="0.5" stroke="#72D6C8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M124.9755,208.955a82.8867,82.8867,0,1,1,82.8867-82.8867h0a82.8865,82.8865,0,0,1-82.8864,82.8867Zm0-165.0557a82.1691,82.1691,0,1,0,82.169,82.1692v0A82.169,82.169,0,0,0,124.9755,43.8993Z" style="fill:#fff"/>
+            <g id="Artboard-2">
+                <g id="payment-card">
+                    <rect class="draw" x="93.5217" y="91.8951" width="78.0275" height="49.72" rx="4.2439" style="fill:#fff;stroke:#72d6c8;opacity:.6;stroke-miterlimit:10;stroke-width:2px"/>
+                    <g id="_" data-name=" ">
+                        <g id="card">
+                            <path d="M137.0726,112.3964l-1.3837-.6852a4.8434,4.8434,0,0,0,0-4.7969l1.3068-.7614A5.892,5.892,0,0,1,137.0726,112.3964Z" style="fill:#ff3365">
+                                <animate id="fir" attributeName="opacity" attributeType="XML" from="0" to="1" dur="1s" begin="0s; fir.end+2s"></animate>
+                            </path>
+                            <path d="M141.9157,112.32l-1.4606-.3807c.9225-3.4263.5381-5.0253.0768-5.7106l1.3069-.8375C142.7613,106.762,142.8382,109.0462,141.9157,112.32Z" style="fill:#ff3365">
+                                <animate id="sec" attributeName="opacity" attributeType="XML" from="0" to="1" dur="1s" begin=".2s; sec.end+2s"></animate>
+                            </path>
+                            <path d="M145.8363,114.0715l-1.3069-.7614c1.9219-3.35,1.9987-5.8628.1538-7.7663l1.0762-1.066C148.1425,106.8382,148.1425,110.0361,145.8363,114.0715Z" style="fill:#ff3365">
+                                <animate id="third" attributeName="opacity" attributeType="XML" from="0" to="1" dur="1s" begin=".6s; third.end+2s"></animate>
+                            </path>
+                            <rect id="Rectangle-2" x="103.7091" y="121.5334" width="12.7611" height="3.9593" style="fill:#72d6c8;opacity:0.5;isolation:isolate"/>
+                            <rect id="Rectangle-3" x="118.8534" y="121.5334" width="13.5299" height="3.9593" style="fill:#72d6c8;opacity:0.5;isolation:isolate"/>
+                            <rect id="Rectangle-5" x="103.7091" y="131.8124" width="34.286" height="3.9593" style="fill:#72d6c8;opacity:0.5;isolation:isolate"/>
+                            <rect id="Rectangle-4" x="135.612" y="121.5334" width="13.5299" height="3.9593" style="fill:#72d6c8;opacity:0.5;isolation:isolate"/>
+                            <path d="M113.3953,113.6908H106.861a2.2543,2.2543,0,0,1-2.3059-2.2015c-.0006-.0276-.0008-.0551,0-.0827V105.696a2.2543,2.2543,0,0,1,2.2236-2.2846c.0276,0,.0551,0,.0827,0h6.5343a2.2543,2.2543,0,0,1,2.3058,2.2016c.0006.0275.0008.0551,0,.0826v5.7106A2.3532,2.3532,0,0,1,113.3953,113.6908Zm-6.5343-8.7562a.7228.7228,0,0,0-.7688.7614v5.7106a.723.723,0,0,0,.7688.7614h6.5343a.7227.7227,0,0,0,.7687-.7614V105.696a.723.723,0,0,0-.7687-.7614Z" style="fill:#ff3365"/>
+                        </g>
+                        <ellipse id="Oval-2-2" data-name="Oval" cx="97.1918" cy="146.8848" rx="22.6779" ry="22.4616" style="fill:#fff"/>
+                        <path d="M97.1918,170.3362a23.4525,23.4525,0,1,1,23.6773-23.4514A23.4525,23.4525,0,0,1,97.1918,170.3362Zm0-44.9993a21.5489,21.5489,0,1,0,21.7554,21.5479A21.5488,21.5488,0,0,0,97.1918,125.3369Z" style="fill:#ff3365"/>
+                        <path d="M97.1733,154.7949v-1.9013a5.48,5.48,0,0,1-2.8808-.8291l.4516-1.2608a5.026,5.026,0,0,0,2.7115.81c1.3369,0,2.2407-.7725,2.2407-1.8457,0-1.0352-.7344-1.6758-2.1279-2.24-1.92-.7539-3.1065-1.62-3.1065-3.2578a3.0882,3.0882,0,0,1,2.8433-3.0312v-1.9024h1.167v1.8272a5.0283,5.0283,0,0,1,2.4482.6582l-.4712,1.2432a4.55,4.55,0,0,0-2.3721-.6407c-1.45,0-1.996.8662-1.996,1.62,0,.9786.6967,1.4688,2.3349,2.1465,1.94.79,2.9185,1.77,2.9185,3.4453a3.2757,3.2757,0,0,1-2.9751,3.2012v1.958Z" style="fill:#ff3365"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
