@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import MainSlide from './MainSlide';
 import SecondSlide from './SecondSlide';
+import ThirdSlide from './ThirdSlide';
+import Footer from './Footer';
 
 export default class MainPage extends Component {
   render() {
@@ -8,6 +10,8 @@ export default class MainPage extends Component {
       <div>
         <MainSlide />
         <SecondSlide />
+        <ThirdSlide />
+        <Footer />
       </div>
     )
   }

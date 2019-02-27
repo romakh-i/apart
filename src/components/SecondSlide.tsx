@@ -2,6 +2,13 @@ import React, { Component } from 'react'
 import StepItem from './StepItem';
 
 export default class SecondSlide extends Component {
+  // renderSteps() {
+  //   let arr = []
+  //   for (let i = 1; i < 6; i++) {
+  //     arr.push();
+  //   }
+  //   return arr;
+  // }
   render() {
     return (
       <div className="second-slide">

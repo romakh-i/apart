@@ -11,7 +11,7 @@ export default class Header extends Component {
             <img src={logo} alt="" />
           </Link>
 
-          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+          <button className="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
           </button>
