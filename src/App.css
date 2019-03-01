@@ -579,3 +579,20 @@
 .dropdown-item.active {
   background-color: #62b3ab;
 }
+
+#dashboard {
+  margin: 0 auto;
+  padding-top: 30%;
+}
+
+.uppy-Dashboard-inner {
+  margin: 0 auto;
+}
+
+#upload {
+  margin-top: 20px;
+}
+
+/* fileInput {
+  margin: 0 auto;
+} */

@@ -1,6 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
+import '@uppy/core/dist/style.css';
+import '@uppy/file-input/dist/style.css';
+import '@uppy/drag-drop/dist/style.css';
+import '@uppy/dashboard/dist/style.css';
+import '@uppy/progress-bar/dist/style.css'
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';

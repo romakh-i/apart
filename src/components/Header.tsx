@@ -40,6 +40,15 @@ export default class Header extends Component {
             </button>
             <ul className="navbar-nav">
               <li className="nav-item">
+                <Link to="/file-input" className="nav-link">File input</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/dropdrag" className="nav-link">Drag & Drop</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/dashboard" className="nav-link">Dashboard</Link>
+              </li>
+              <li className="nav-item">
                 <Link to="/" className="nav-link">Help</Link>
               </li>
 
